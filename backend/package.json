@@ -2,7 +2,7 @@
   "name": "mdbs-backend",
   "version": "1.0.0",
   "description": "Mini Digital Banking System - Core Banking Engine",
-  "main": "dist/server.js",
+  "main": "src/server.ts",
   "scripts": {
     "dev": "ts-node-dev --respawn --transpile-only src/server.ts",
     "build": "tsc",
